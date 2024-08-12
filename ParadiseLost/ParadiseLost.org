@@ -2675,6 +2675,8 @@ Down from the ecliptick, sped with hoped success,\\
 Throws his steep flight in many an aery wheel;\\
 Nor staid, till on Niphates' top he lights.
 
+
+
 ** <<chap04>>Book IV
 :PROPERTIES:
 :CUSTOM_ID: book-iv
@@ -3694,6 +3696,8 @@ Where thou art weighed, and shown how light, how weak,\\
 If thou resist. The Fiend looked up, and knew\\
 His mounted scale aloft: Nor more; but fled\\
 Murmuring, and with him fled the shades of night.
+
+
 
 ** <<chap05>>Book V
 :PROPERTIES:
