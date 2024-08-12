@@ -1,0 +1,2373 @@
+<<pg-header>>
+** The Project Gutenberg eBook of The Epic of Gilgamish
+
+:PROPERTIES:
+:CUSTOM_ID: pg-header-heading
+:title: 
+:END:
+
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+[[https://www.gutenberg.org][www.gutenberg.org]]. If you are not located
+in the United States, you will have to check the laws of the country
+where you are located before using this eBook.
+
+<<pg-machine-header>>
+*Title*: The Epic of Gilgamish
+
+<<pg-header-authlist>>
+*Author*: Stephen Langdon
+
+*Release date*: July 23, 2006 [eBook #18897]
+
+*Language*: English
+
+*Credits*: Produced by Jeroen Hellingman and the Online Distributed\\
+Proofreading Team at http://www.pgdp.net/
+
+<<pg-start-separator>>
+​*** START OF THE PROJECT GUTENBERG EBOOK THE EPIC OF GILGAMISH ***
+
+#+begin_example
+#+end_example
+
+* The Epic of Gilgamish
+      
+:PROPERTIES:
+:CUSTOM_ID: the-epic-of-gilgamish
+:CLASS: docTitle
+:END:
+*** by Stephen Langdon                                              :PROPERTIES:
+  :CUSTOM_ID: by-stephen-langdon
+  :CLASS: byline
+  :END:
+** University of Pennsylvania\\
+ The University Museum\\
+ Publications of the Babylonian Section\\
+ Vol. X No. 3
+ :PROPERTIES:
+ :CUSTOM_ID: university-of-pennsylvania-the-university-museum-publications-of-the-babylonian-section-vol.-x-no.-3
+ :CLASS: docImprint
+ :END:
+ 
+ <<d0e100>>[[[#d0e100][207]]]
+** Introduction
+ :PROPERTIES:
+ :CUSTOM_ID: introduction
+ :END:
+ In the year 1914 the University Museum secured by purchase a large six
+ column tablet nearly complete, carrying originally, according to the
+ scribal note, 240 lines of text. The contents supply the South
+ Babylonian version of the second book of the epic /ša nagba imuru/, “He
+ who has seen all things,” commonly referred to as the Epic of Gilgamish.
+ The tablet is said to have been found at Senkere, ancient Larsa near
+ Warka, modern Arabic name for and vulgar descendant of the ancient name
+ Uruk, the Biblical Erech mentioned in Genesis X. 10. This fact makes the
+ new text the more interesting since the legend of Gilgamish is said to
+ have originated at Erech and the hero in fact figures as one of the
+ prehistoric Sumerian rulers of that ancient city. The dynastic list
+ preserved on a Nippur tablet[[#d0e109][1]] mentions him as the fifth
+ king of a legendary line of rulers at Erech, who succeeded the dynasty
+ of Kish, a city in North Babylonia near the more famous but more recent
+ city Babylon. The list at Erech contains the names of two well known
+ Sumerian deities, Lugalbanda[[#d0e115][2]] and Tammuz. The reign of the
+ former is given at 1,200 years and that of Tammuz at 100 years.
+ Gilgamish ruled 126 years. We have to do here with a confusion of myth
+ and history in which the real facts are disengaged only by conjecture.
+ 
+ The prehistoric Sumerian dynasties were all transformed
+ <<d0e120>>[[[#d0e120][208]]]into the realm of myth and legend.
+ Nevertheless these rulers, although appearing in the pretentious
+ nomenclature as gods, appear to have been real historic
+ personages.[[#d0e122][3]] The name Gilgamish was originally written
+ /^{d}Gi-bil-aga-miš/, and means “The fire god (/Gibil/) is a commander,”
+ abbreviated to /^{d}Gi-bil-ga-miš/, and /^{d}Gi(š)-bil-ga-miš/, a form
+ which by full labialization of /b/ to /u̯/ was finally contracted to
+ /^{d}Gi-il-ga-miš/.[[#d0e166][4]] Throughout the new text the name is
+ written with the abbreviation /^{d}Gi(š)/,[[#d0e177][5]] whereas the
+ standard Assyrian text has consistently the writing
+ /^{d}GIŠ-ṬU[[#d0e190][6]]-BAR/. The latter method of writing the name is
+ apparently cryptographic for /^{d}Giš-bar-aga-(miš)/; the fire god
+ /Gibil/ has also the title /Giš-bar/.
+ 
+ A fragment of the South Babylonian version of the tenth book was
+ published in 1902, a text from the period of Hammurapi, which showed
+ that the Babylonian epic differed very much from the Assyrian in
+ diction, but not in content. The new tablet, which belongs to the same
+ period, also differs radically from the diction of the Ninevite text in
+ the few lines where they duplicate each other. The first line of the new
+ tablet corresponds to Tablet I, Col. V 25 of the Assyrian
+ text,[[#d0e210][7]] where Gilgamish begins to relate his dreams to his
+ mother Ninsun.[[#d0e219][8]] <<d0e246>>[[[#d0e246][209]]]
+ 
+ The last line of Col. I corresponds to the Assyrian version Book I, Col.
+ VI 29. From this point onward the new tablet takes up a hitherto unknown
+ portion of the epic, henceforth to be assigned to the second
+ book.[[#d0e249][9]]
+ 
+ At the end of Book I in the Assyrian text and at the end of Col. I of
+ Book II in the new text, the situation in the legend is as follows. The
+ harlot halts outside the city of Erech with the enamoured Enkidu, while
+ she relates to him the two dreams of the king, Gilgamish. In these
+ dreams which he has told to his mother he receives premonition
+ concerning the advent of the satyr Enkidu, destined to join with him in
+ the conquest of Elam.
+ 
+ Now the harlot urges Enkidu to enter the beautiful city, to clothe
+ himself like other men and to learn the ways of civilization. When he
+ enters he sees someone, whose name is broken away, eating bread and
+ drinking milk, but the beautiful barbarian understands not. The harlot
+ commands him to eat and drink also:
+ 
+ “It is the conformity of life,
+ 
+ Of the conditions and fate of the Land.”
+ 
+ He rapidly learns the customs of men, becomes a shepherd and a mighty
+ hunter. At last he comes to the notice of Gilgamish himself, who is
+ shocked by the newly acquired manner of Enkidu.
+ 
+ “Oh harlot, take away the man,” says the lord of Erech. Once again the
+ faithful woman instructs her heroic lover in the conventions of society,
+ this time teaching him the importance of the family in Babylonian life,
+ and obedience to the ruler. Now the people of Erech assemble about him
+ admiring his <<d0e265>>[[[#d0e265][210]]]godlike appearance. Gilgamish
+ receives him and they dedicate their arms to heroic endeavor. At this
+ point the epic brings in a new and powerful /motif/, the renunciation of
+ woman's love in the presence of a great undertaking. Gilgamish is
+ enamoured of the beautiful virgin goddess Išhara, and Enkidu, fearing
+ the effeminate effects of his friend's attachment, prevents him forcibly
+ from entering a house. A terrific combat between these heroes
+ ensues,[[#d0e270][10]] in which Enkidu conquers, and in a magnanimous
+ speech he reminds Gilgamish of his higher destiny.
+ 
+ In another unplaced fragment of the Assyrian text[[#d0e278][11]] Enkidu
+ rejects his mistress also, apparently on his own initiative and for
+ ascetic reasons. This fragment, heretofore assigned to the second book,
+ probably belongs to Book III. The tablet of the Assyrian version which
+ carries the portion related on the new tablet has not been found. Man
+ redeemed from barbarism is the major theme of Book II.
+ 
+ The newly recovered section of the epic contains two legends which
+ supplied the glyptic artists of Sumer and Accad with subjects for seals.
+ Obverse III 28--32 describes Enkidu the slayer of lions and panthers.
+ Seals in all periods frequently represent Enkidu in combat with a lion.
+ The struggle between the two heroes, where Enkidu strives to rescue his
+ friend from the fatal charms of Išhara, is probably depicted on seals
+ also. On one of the seals published by Ward, /Seal Cylinders of Western
+ Asia/, No. 459, a nude female stands beside the struggling
+ heroes.[[#d0e292][12]] This scene not improbably illustrates the effort
+ of Enkidu to rescue his friend from the goddess. In fact the satyr
+ stands between Gilgamish and Išhara(?) on the seal.
+ <<d0e295>>[[[#d0e295][211]]]
+ 
+ --------------
+ 
+ [[#d0e109src][1]] Ni. 13981, published by Dr. Poebel in PBS. V, No. 2.
+ 
+ [[#d0e115src][2]] The local Bêl of Erech and a bye-form of Enlil, the
+ earth god. Here he is the consort of the mother goddess Ninsun.
+ 
+ [[#d0e122src][3]] Tammuz is probably a real personage, although
+ /Dumu-zi/, his original name, is certainly later than the title /Ab-ú/,
+ probably the oldest epithet of this deity, see /Tammuz and Ishtar/,
+ p. 8. /Dumu-zi/ I take to have been originally the name of a prehistoric
+ ruler of Erech, identified with the primitive deity Abu.
+ 
+ [[#d0e166src][4]] See /ibid./, page 40.
+ 
+ [[#d0e177src][5]] Also Meissner's early Babylonian duplicate of Book X
+ has invariably the same writing, see Dhorme, /Choix de Textes
+ Religieux/, 298--303.
+ 
+ [[#d0e190src][6]] Sign whose gunufied form is read /aga/.
+ 
+ [[#d0e210src][7]] The standard text of the Assyrian version is by
+ Professor Paul Haupt, /Das Babylonische Nimrodepos/, Leipzig, 1884.
+ 
+ [[#d0e219src][8]] The name of the mother of Gilgamish has been
+ erroneously read /ri-mat ^{ilat}Nin-lil/, or /Rimat-Bêlit/, see Dhorme
+ 202, 37; 204, 30, etc. But Dr. Poebel, who also copied this text, has
+ shown that /Nin-lil/ is an erroneous reading for /Nin-sun/. For /Ninsun/
+ as mother of Gilgamish see SBP. 153 n. 19 and R.A., IX 113 III 2.
+ /Ri-mat ^{ilat}Nin-sun/ should be rendered “The wild cow Ninsun.”
+ 
+ [[#d0e249src][9]] The fragments which have been assigned to Book II in
+ the British Museum collections by Haupt, Jensen, Dhorme and others
+ belong to later tablets, probably III or IV.
+ 
+ [[#d0e270src][10]] Rm. 289, latter part of Col. II (part of the Assyrian
+ version) published in HAUPT, /ibid./, 81--4 preserves a defective text
+ of this part of the epic. This tablet has been erroneously assigned to
+ Book IV, but it appears to be Book III.
+ 
+ [[#d0e278src][11]] K. 2589 and duplicate (unnumbered) in Haupt, /ibid./,
+ 16--19.
+ 
+ [[#d0e292src][12]] See also Ward, No. 199.
+ 
+**** Transliteration :PROPERTIES: :CUSTOM_ID: transliteration
+   :END:
+   
+   1it-bi-e-ma ^{ilu}Gilgamiš šu-na-tam i-pa-aš-šar.
+   
+   2iz-za-kar-am[[#d0e308][1]] a-na um-mi-šu
+   
+   3um-mi i-na ša-a-at mu-ši-ti-i̭a
+   
+   4ša-am-ḫa-ku-ma at-ta-na-al-la-ak
+   
+   5i-na bi-ri-it id-da-tim
+   
+   6ib-ba-šu-nim-ma ka-ka-'a[[#d0e325][2]] ša-ma-i
+   
+   7ki-?-?-rum[[#d0e339][3]] ša a-nim im-ku-ut a-na ṣi-ri-i̭a
+   
+   8áš-ši-šu-ma ik-ta-bi-it[[#d0e350][4]] e-li-i̭a
+   
+   9ilam[[#d0e357][5]] iš-šu-ma nu-uš-ša-šu[[#d0e377][6]] u-ul el-ti-'i̭
+   
+   10ad-ki ma-tum pa-ḫi-ir[[#d0e391][7]] e-li-šu
+   
+   11id-lu-tum ú-na-ša-ku ši-pi-šu
+   
+   12ú-um-mi-id-ma     pu-ti
+   
+   13i-mi- du         i̭a-ti
+   
+   14aš-ši-a-šu-ma at-ba-la-áš-šu a-na ṣi-ri-ki
+   
+   15um-mi ^{ilu}Gilgamiš mu-u-da-a-at ka-la-ma
+   
+   16iz-za-kar-am a-na ^{ilu}Gilgamiš <<d0e418>>[[[#d0e418][212]]]
+   
+   17mi-in-di ^{ilu}Gilgamish ša ki-ma ka-ti
+   
+   18i-na ṣi-ri   i-wa-li-id-ma
+   
+   19ú-ra-ab-bi-šu   ša-du-ú
+   
+   20ta-mar-šu-ma [sa(?)]-ap-ḫa-ta at-ta
+   
+   21id-lu-tum ú-na-ša-ku ši-pi-šu[[#d0e432][8]]
+   
+   22te-iṭ-ṭi-ra-šu(?) ... šu-ú-zu
+   
+   23ta-tar-ra-['a]-šu a-na ṣi-[ri-i̭]a
+   
+   24[iš-(?)] ti-lam-ma[[#d0e444][9]] i-ta-mar ša-ni-tam
+   
+   25[šu-na-]ta i-ta-wa-a-am a-na um-mi-šu
+   
+   26[um-m]i a-ta-mar ša-ni-tam
+   
+   27[šu-na-ta a-ta]mar e-mi-a i-na zu-ki-im
+   
+   28[i-na?] Unuk-(ki) ri-bi-tim[[#d0e460][10]]
+   
+   29ḫa-aṣ-ṣi-nu   na-di-i-ma
+   
+   30e-li-šu   pa-aḫ- ru
+   
+   31ḫa-aṣ-ṣi-nu-um-ma ša-ni bu-nu-šu
+   
+   32a-mur-šu-ma aḫ-ta-ta a-na-ku
+   
+   33a-ra-am-šu-ma ki-ma áš-ša-tim
+   
+   34a-ḫa-ap-pu-up   el-šu
+   
+   35el-ki-šu-ma áš-ta-ka-an-šu
+   
+   36a-na     a-ḫi-i̭a
+   
+   37um-mi ^{ilu}Gilgamish mu-da-at ka-la-ma
+   
+   38[iz-za-kar-am a-na ^{ilu}Gilgamish]
+   
+   ...................................
+   
+   <<d0e500>>[[[#d0e500][213]]]
+*** COL. II
+  :PROPERTIES:
+  :CUSTOM_ID: col.-ii
+  :END:
+  
+  1aš-šum uš-[ta-] ma-ḫa-ru it-ti-ka.
+  
+  2^{ilu}Gilgamish šu-na-tam i-pa-šar
+  
+  3^{ilu}En-ki-[dû w]a?-ši-ib ma-ḫar ḫa-ri-im-tim
+  
+  4UR [ ]-ḫa-mu DI-?-al-lu-un
+  
+  5[ ] im-ta-ši a-šar i-wa-al-du
+  
+  6ûmê 6[[#d0e521][11]] ù 7 mu-ši- a-tim
+  
+  7^{ilu}En-ki-dû te-bi-   i-ma
+  
+  8ša-[am-ka-ta]   ir- ḫi
+  
+  9ḫa-[ri-im-tu pa-a]-ša i-pu-ša-am-ma
+  
+  10iz-za-[kar-am] a-na ^{ilu}En-ki-dû[[#d0e537][12]]
+  
+  11a-na-ṭal-ka ^{d}En-ki-dû ki-ma ili ta-ba-áš-ši
+  
+  12am-mi-nim it-ti na-ma-áš-te-e[[#d0e553][13]]
+  
+  13ta-at-ta-[na-al-]la -ak ṣi-ra-am
+  
+  14al-kam   lu-ùr-di-   ka
+  
+  15a-na libbi Uruk-(ki) ri-bi-tim
+  
+  16a-na biti [el-]lim mu-ša-bi ša A-nim
+  
+  17^{d}En-ki-dû ti-bi lu-ru-ka
+  
+  18a-na É-[an-n]a mu-ša-bi ša A-nim
+  
+  19a-šar [^{ilu}Gilgamiš] it-[.........] ne-pi-ši-tim(?)
+  
+  20ù at-[   ]-di [   -] ma
+  
+  21ta-[   ] ra-ma-an-   ka <<d0e593>>[[[#d0e593][214]]]
+  
+  22al-ka ti-ba i-[na] ga-ag-ga-ri
+  
+  23ma-a-a?[[#d0e598][14]] -ak ri-i-im
+  
+  24iš-me a-wa-az-za im-ta-gár ga-ba-ša
+  
+  25mi-il-kum ša sinništi
+  
+  26im-ta-[ku]-ut a-na libbi-šu
+  
+  27iš-ḫu-uṭ li-ib-ša-am
+  
+  28iš-ti-nam [ú]-la-ab-bi-iš-šu
+  
+  29li-ib- [ša-am] ša-ni-a-am
+  
+  30ši-i it-ta-al-ba- áš
+  
+  31ṣa-ab-ta-at ga-az- zu
+  
+  32ki-ma ? i-ri-id-di-šu
+  
+  33a-na gu-up-ri ša ri-i-im
+  
+  34a-š[ar   ] tar-ba-ṣi-im
+  
+  35i-na [   ]-ḫu-ru ri-i̭a-ú[[#d0e631][15]]
+  
+  36.............................
+  
+  (About two lines broken away.)
+  
+******* COL. III                                                    :PROPERTIES:
+      :CUSTOM_ID: col.-iii
+      :END:
+      
+      1ši-iz-ba ša na-ma-áš-te-e
+      
+      2i-te-en-   ni-   iḳ
+      
+      3a-ka-lam iš-ku-nu ma-ḫar-šu
+      
+      4ip-te-iḳ-ma i-na -aṭ-ṭal[[#d0e656][16]]
+      
+      5ù ip-pa-al-la-   as
+      
+      6u-ul i-di ^{d}En-ki- dû
+      
+      7aklam a-na a-ka-lim
+      
+      8šikaram   a-na ša-te-e-im
+      
+      9la-a   lum-mu-   ud <<d0e675>>[[[#d0e675][215]]]
+      
+      10ḫa-ri-im-lum pi-ša i-pu-ša-am- ma
+      
+      11iz-za-kar-am a-na ^{ilu}En-ki-dû
+      
+      12a-ku-ul ak-lam ^{d}En-ki-dû
+      
+      13zi-ma-at ba-la-ṭi-im
+      
+      14bi-ši-ti ši-im-ti ma-ti
+      
+      15i-ku-ul a-ak-lam ^{ilu}En-ki-dû
+      
+      16a-di ši-bi-e-šu
+      
+      17šikaram iš-ti-a-am
+      
+      187 aṣ-ṣa-am-mi-im[[#d0e703][17]]
+      
+      19it-tap-šar kab-ta-tum i-na-an-gu
+      
+      20i-li-iṣ libba- šu- ma
+      
+      21pa-nu-šu [it-]ta(?)-bir -ru[[#d0e715][18]]
+      
+      22ul-tap-pi-it [............]-i
+      
+      23šu-ḫu-ra-am pa-ga-ar-šu
+      
+      24ša-am-nam ip-ta-ša-áš-ma
+      
+      25a-we-li-iš i-mē
+      
+      26il-ba- áš li-ib-ša-am
+      
+      27ki-ma mu-ti i-ba-áš-ši
+      
+      28il-ki ka-ak-ka-šu
+      
+      29la-bi ú gi-ir- ri
+      
+      30iš-sa-ak-pu šab-[ši]-eš mu-ši-a-ti
+      
+      31ut- tap -pi-iš šib-ba-ri[[#d0e755][19]]
+      
+      32la-bi uk-t[a ]-ši-id
+      
+      33it-ti immer na-ki-[e?] ra-bu-tum
+      
+      34^{ilu}En-ki-dû ma-aṣ-ṣa-ar-šu-nu
+      
+      35a-we-lum wa-ru-um
+      
+      36iš-[te]-en id-lum
+      
+      37a-na[ ........ u]-za-ak-ki-ir
+      
+      ...........................
+      
+      (About five lines broken away.) <<d0e788>>[[[#d0e788][216]]]
+      
+** REVERSE I                                                        :PROPERTIES:
+ :CUSTOM_ID: reverse-i
+ :END:
+ 
+ ..............................
+ 
+ 1i-ip-pu-uš     ul-ṣa-am
+ 
+ 2iš-ši-ma   i-ni-i-šu
+ 
+ 3i-ta-mar   a-we-lam
+ 
+ 4iz[[#d0e803][20]]-za-kar-am   a-na ḫarimti
+ 
+ 5ša-am-ka-at uk-ki-ši[[#d0e811][21]] a-we-lam
+ 
+ 6a-na mi-nim    il-li-kam
+ 
+ 7zi-ki-ir-šu   lu-uš-šu[[#d0e833][22]]
+ 
+ 8ḫa-ri-im-tum iš-ta-si a-we-lam
+ 
+ 9i-ba-uš-šu-um-ma i-ta-mar-šu
+ 
+ 10e-di-il[[#d0e857][23]] e-eš-ta-ḫi-[ṭa-am]
+ 
+ 11mi-nu   a-la-ku-zu na-aḫ-[[#d0e898][24]] [     -]ma
+ 
+ 12e pi-šu    i-pu-ša-am-[ma]
+ 
+ 13iz-za-kar-am a-na ^{ilu}En-[ki-dû]
+ 
+ 14bi-ti-iš e-mu-tim [                ]
+ 
+ 15ši-ma-a-at    ni-ši-i-   ma
+ 
+ 16tu-ṣa[[#d0e920][25]]-ar pa-a-ta-tim[[#d0e923][26]]
+ 
+ 17a-na âli dup-šak-ki-i e ṣi-en
+ 
+ 18UG-AD-AD-LIL e-mi ṣa-a-a-ḫa-tim <<d0e933>>[[[#d0e933][217]]]
+ 
+ 19a-na šarri Unuk-(ki) ri-bi-tim
+ 
+ 20pi-ti pu-uk epši[[#d0e938][27]] a-na ḫa-a-a-ri
+ 
+ 21a-na ^{ilu}Gilgamiš šarri ša Unuk-(ki) ri-bi-tim
+ 
+ 22pi-ti pu-uk epši[[#d0e950][28]]
+ 
+ 23a-na ha-a-a-ri
+ 
+ 24áš-ša-at ši-ma-tim i-ra-aḫ-ḫi
+ 
+ 25šu-u pa-na-nu-um-ma
+ 
+ 26mu-uk wa-ar-ka-nu
+ 
+ 27i-na mi-il-ki ša ili ga-bi-ma
+ 
+ 28i-na bi-ti-iḳ a-pu-un-na-ti-šu[[#d0e967][29]]
+ 
+ 29ši- ma- az- zum
+ 
+ 30a-na zi-ik-ri id-li-im
+ 
+ 31i-ri-ku pa-nu-šu
+ 
+** REVERSE II
+ :PROPERTIES:
+ :CUSTOM_ID: reverse-ii
+ :END:
+ ............................................................
+ 
+ (About five lines broken away.)
+ 
+ 1i-il-la-ak- ..........
+ 
+ 2ù ša-am-ka-at[     ]ar-ki-šu
+ 
+ 3i- ru- ub-ma[[#d0e993][30]] a-na[[#d0e999][31]] libbi Uruk-(ki)
+ ri-bi-tim
+ 
+ 4ip-ḫur um-ma-nu-um i-na ṣi-ri-šu
+ 
+ 5iz-zi-za-am-ma i-na zu-ki-im
+ 
+ 6ša Unuk-(ki) ri-bi-tim
+ 
+ 7pa-aḫ-ra-a-ma ni-šu <<d0e1010>>[[[#d0e1010][218]]]
+ 
+ 8i-ta-mē-a   i-na ṣi-ri-šu pi(?)-it-tam[[#d0e1013][32]]
+ 
+ 9a-na mi-[ni][[#d0e1021][33]] ^{ilu}Gilgamiš ma-ši-il
+ 
+ 10la-nam   ša- pi-  il
+ 
+ 11e-ṣi[   pu]-uk-ku-ul
+ 
+ 12    i ? -ak-ta
+ 
+ 13i[-    -]di   i-ši?
+ 
+ 14ši-iz-ba ša[na-ma-]áš-[te]-e
+ 
+ 15i-te-  en-  ni-   iḳ
+ 
+ 16ka-i̭ā-na i-na [libbi] Uruk-(ki) kak-ki-a-tum[[#d0e1041][34]]
+ 
+ 17id-lu-tum u-te-el-li-   lu
+ 
+ 18ša-ki-in  ip-ša-   nu[[#d0e1054][35]]
+ 
+ 19a-na idli ša i-tu-ru   zi-mu-šu
+ 
+ 20a-na ^{ilu}Gilgamiš ki-ma i-li-im
+ 
+ 21ša-ki-iš-šum[[#d0e1072][36]] me-iḫ-rum
+ 
+ 22a-na ^{ilat}Iš-ḫa-ra ma-i̭ā-lum
+ 
+ 23na-   [di]-i-   ma
+ 
+ 24^{ilu}Gilgamish id-[   ]na-an(?)...
+ 
+ 25i-na mu-ši in-ni-[    -]id
+ 
+ 26i-na-ak[[#d0e1093][37]]-ša-am- ma
+ 
+ 27it-ta-[    ]i-na zûki
+ 
+ 28ip-ta-ra-[ku   ]-ak-tām
+ 
+ 29ša   ^{ilu}Gilgamish
+ 
+ 30........... da-na(?) ni-iš-šu
+ 
+** COL. III
+ :PROPERTIES:
+ :CUSTOM_ID: col.-iii-1
+ :END:
+ 
+ 1ur-(?)ḫa .....................
+ 
+ 2^{ilu}Gilgamiš ................
+ 
+ 3i-na ṣi-ri .................... <<d0e1126>>[[[#d0e1126][219]]]
+ 
+ 4i-ḫa-an-ni-ib [pi-ir-ta-šu?]
+ 
+ 5it-bi-ma ...
+ 
+ 6a-na pa-ni- šu
+ 
+ 7it-tam-ḫa-ru i-na ri-bi-tu ma-ti
+ 
+ 8^{ilu}En-ki-dû ba-ba-am ip-ta-ri-ik
+ 
+ 9i-na ši-pi-šu
+ 
+ 10^{ilu}Gilgamiš e-ri-ba-am u-ul id-di-in
+ 
+ 11iṣ-ṣa-ab-tu-ma ki-ma li-i-im
+ 
+ 12i- lu- du[[#d0e1149][38]]
+ 
+ 13zi-ip-pa-am 'i-bu- tu
+ 
+ 14i-ga-rum ir-tu-tū[[#d0e1165][39]]
+ 
+ 15^{ilu}Gilgamiš ù ^{ilu}En-ki- dû
+ 
+ 16iṣ-ṣa-ab-tu-ù- ma
+ 
+ 17ki-ma li-i-im i-lu-du
+ 
+ 18zi-ip-pa-am 'i-bu- tu
+ 
+ 19i-ga-rum ir-tu-tū
+ 
+ 20ik-mi-is-ma ^{ilu}Gilgamiš
+ 
+ 21i-na ga-ga-ag-ga-ri ši-ip-šu
+ 
+ 22ip-ši-iḫ[[#d0e1204][40]] uṣ-ṣa-šu- ma
+ 
+ 23i-ni-'i i-ra-az-zu
+ 
+ 24iš-tu i-ra-zu i-ni-ḫu[[#d0e1214][41]]
+ 
+ 25^{ilu}En-ki-dû a-na ša-ši-im
+ 
+ 26iz-za-kar-am a-na ^{ilu}Gilgamiš
+ 
+ 27ki-ma iš-te-en-ma um-ma-ka
+ 
+ 28ú- li- id- ka
+ 
+ 29ri-im-tum ša zu- pu-ri
+ 
+ 30^{ilat}-Nin- sun- na
+ 
+ 31ul-lu e-li mu-ti ri-eš-su <<d0e1247>>[[[#d0e1247][220]]]
+ 
+ 32šar-ru-tam ša ni-ši
+ 
+ 33i-ši-im-kum ^{ilu}En-lil
+ 
+ duppu 2 kam-ma
+ 
+ šu-tu-ur e-li ...
+ 
+ 4 šu-ši[[#d0e1262][42]]
+ 
+ --------------
+ 
+ [[#d0e308src][1]] Here this late text includes both variants /pašāru/
+ and /zakāru/. The earlier texts have only the one or the other.
+ 
+ [[#d0e325src][2]] For /kakabê/; /b/ becomes /u̯/ and then is reduced to
+ the breathing.
+ 
+ [[#d0e339src][3]] The variants have /kima kiṣri/; /ki-[ma]?-rum/ is a
+ possible reading. The standard Assyrian texts regard Enkidu as the
+ subject.
+ 
+ [[#d0e350src][4]] Var. /da-an/
+ 
+ [[#d0e357src][5]] /ŠAM-KAK/ = /ilu/, net. The variant has /ultaprid
+ ki-is-su-šu/, “he shook his murderous weapon.” For /kissu/ see ZA.
+ 9,220,4 = CT. 12,14b 36, /giš-kud/ = /ki-is-su/.
+ 
+ [[#d0e377src][6]] Var. /nussu/ for /nuš-šu/ = /nušša-šu/. The previous
+ translations of this passage are erroneous.
+ 
+ [[#d0e391src][7]] This is to my knowledge the first occurence of the
+ infinitive of this verb, /paḫēru/, not /paḫāru/.
+ 
+ [[#d0e432src][8]] Text /ma/?
+ 
+ [[#d0e444src][9]] /ištanamma/ > /ištilamma/.
+ 
+ [[#d0e460src][10]] Cf. Code of Hammurapi IV 52 and Streck in
+ /Babyloniaca/ II 177.
+ 
+ [[#d0e521src][11]] Restored from Tab. I Col. IV 21.
+ 
+ [[#d0e537src][12]] Cf. Dhorme /Choix de Textes Religieux/ 198, 33.
+ 
+ [[#d0e553src][13]] /namaštû/ a late form which has followed the analogy
+ of /reštû/ in assuming the feminine /t/ as part of the root. The long
+ /û/ is due to analogy with /namaššû/ a Sumerian loan-word with nisbe
+ ending.
+ 
+ [[#d0e598src][14]] Room for a small sign only, perhaps /A; māi̭āk/? For
+ /mâka/, there, see BEHRENS, LSS. II page 1 and index.
+ 
+ [[#d0e631src][15]] Infinitive “to shepherd”; see also Poebel, PBS. V 106
+ I, /ri-i̭a-ú/, /ri-te-i̭a-ú/.
+ 
+ [[#d0e656src][16]] The text has clearly /AD-RI/.
+ 
+ [[#d0e703src][17]] Or /azzammim/? The word is probably an adverb; hardly
+ a word for cup, mug (??).
+ 
+ [[#d0e715src][18]] /it/ is uncertain and /ta/ more likely than /uš/. One
+ expects /ittabriru/. Cf. /muttabrirru/, CT. 17, 15, 2; /littatabrar/,
+ EBELING, KTA. 69, 4.
+ 
+ [[#d0e755src][19]] For /šapparu/. Text and interpretation uncertain.
+ /uttappiš/ II² from /tapāšu/, Hebrew /tāpaś/, seize.
+ 
+ [[#d0e803src][20]] Text /ta/!
+ 
+ [[#d0e811src][21]] On /ekēšu/, drive away, see Zimmern, /Shurpu/, p. 56.
+ Cf. /uk-kiš/ Myhrman, PBS. I 14, 17; /uk-ki-ši/, King, Cr. App. V 55;
+ etc., etc.
+ 
+ [[#d0e833src][22]] The Hebrew cognate of /mašû/, to forget, is /našâ/,
+ Arabic /nasijia/, and occurs here in Babylonian for the first time. See
+ also Brockelman, /Vergleichende Grammatik/ 160 a.
+ 
+ [[#d0e857src][23]] Probably phonetic variant of /edir/. The preterite of
+ /edēru/, to be in misery, has not been found. If this interpretation be
+ correct the preterite /edir/ is established. For the change /r/ > /l/
+ note also /attalaḫ/ < /attaraḫ/, Harper, /Letters/ 88, 10, /bilku/ <
+ /birku/, RA. 9, 77 II 13; /uttakkalu/ < /uttakkaru/, Ebeling, KTA. 49
+ IV 10.
+ 
+ [[#d0e898src][24]] Also /na/-'-[     -]/ma/ is possible.
+ 
+ [[#d0e920src][25]] The text cannot be correct since it has no
+ intelligible sign. My reading is uncertain.
+ 
+ [[#d0e923src][26]] Text uncertain, /kal-lu-tim/ is possible.
+ 
+ [[#d0e938src][27]] /KAK-ši/.
+ 
+ [[#d0e950src][28]] /KAK-ši/.
+ 
+ [[#d0e967src][29]] Literally nostrils. /pitik apunnati-šu/, work done in
+ his presence(?). The meaning of the idiom is uncertain.
+ 
+ [[#d0e993src][30]] Text /ZU/!
+ 
+ [[#d0e999src][31]] Text has erroneous form.
+ 
+ [[#d0e1013src][32]] Text /PA-it-tam/ clearly!
+ 
+ [[#d0e1021src][33]] Omitted by the scribe.
+ 
+ [[#d0e1041src][34]] Sic! The plural of /kakku/, /kakkîtu/(?).
+ 
+ [[#d0e1054src][35]] Cf. /e-pi-ša-an-šu-nu libâru/, “May they see their
+ doings,” /Maḳlu/ VII 17.
+ 
+ [[#d0e1072src][36]] For /šakin-šum/.
+ 
+ [[#d0e1093src][37]] On the verb /nâku/ see the Babylonian Book of
+ Proverbs § 27.
+ 
+ [[#d0e1149src][38]] The verb /la'āṭu/, to pierce, devour, forms its
+ preterite /iluṭ/; see VAB. IV 216, 1. The present tense which occurs
+ here as /iluṭ/ also.
+ 
+ [[#d0e1165src][39]] Note /BUL(tu-ku)/ = /ratātu/ (falsely entered in
+ Meissner, SAI. 7993), and /irattutu/ in Zimmern, /Shurpu/, Index.
+ 
+ [[#d0e1204src][40]] “For /ipšaḫ/.”
+ 
+ [[#d0e1214src][41]] Sic! /ḫu/ reduced to the breathing /'u/; read
+ /i-ni-'u/.
+ 
+ [[#d0e1262src][42]] The tablet is reckoned at forty lines in each
+ column,
+ 
+      * Translation :PROPERTIES:
+      :CUSTOM_ID: translation
+      :END:
+
+      1Gilgamish arose interpreting dreams,
+
+      2addressing his mother.
+
+      3“My mother! during my night
+
+      4I, having become lusty, wandered about
+
+      5in the midst of omens.
+
+      6And there came out stars in the heavens,
+
+      7Like a ... of heaven he fell upon me.
+
+      8I bore him but he was too heavy for me.
+
+      9He bore a net but I was not able to bear it.
+
+      10I summoned the land to assemble unto him,
+
+      11that heroes might kiss his feet.
+
+      12He stood up before me[[#d0e1292][1]]
+
+      13and they stood over against me.
+
+      14I lifted him and carried him away unto thee.”
+
+      15The mother of Gilgamish she that knows all things,
+
+      16said unto Gilgamish:--- <<d0e1303>>[[[#d0e1303][212]]]
+
+      17“Truly oh Gilgamish he is
+
+      18born[[#d0e1308][2]] in the fields like thee.
+
+      19The mountains have reared him.
+
+      20Thou beholdest him and art distracted(?)
+
+      21Heroes kiss /his/ feet.
+
+      22Thou shalt spare him....
+
+      23Thou shalt lead him to me.”
+
+      24Again he dreamed and saw another dream
+
+      25and reported it unto his mother.
+
+      26“My mother, I have seen another
+
+      27[dream. I beheld] my likeness in the street.
+
+      28In Erech of the wide spaces[[#d0e1337][3]]
+
+      29he hurled the axe,
+
+      30and they assembled about him.
+
+      31Another axe seemed his visage.
+
+      32I saw him and was astounded.
+
+      33I loved him as a woman,
+
+      34falling upon him in embrace.
+
+      35I took him and made him
+
+      36my brother.”
+
+      37The mother of Gilgamish she that knows all things
+
+      38[said unto Gilgamish:---]
+
+      ...................................
+
+      <<d0e1362>>[[[#d0e1362][213]]]
+      ** COL. II
+       :PROPERTIES:
+       :CUSTOM_ID: col.-ii-1
+       :END:
+       
+       1that he may join with thee in endeavor.”
+       
+       2(Thus) Gilgamish solves (his) dream.
+       
+       3Enkidu sitting before the hierodule
+       
+       4
+       
+       5[   ] forgot where he was born.
+       
+       6Six days and seven nights
+       
+       7came forth Enkidu
+       
+       8and cohabited with the courtesan.
+       
+       9The hierodule opened her mouth
+       
+       10speaking unto Enkidu.
+       
+       11“I behold thee Enkidu; like a god thou art.
+       
+       12Why with the animals
+       
+       13wanderest thou on the plain?
+       
+       14Come! I will lead thee
+       
+       15into the midst of Erech of the wide places,
+       
+       16even unto the holy house, dwelling place of Anu.
+       
+       17Oh Enkidu, arise, I will conduct thee
+       
+       18unto Eanna dwelling place of Anu,
+       
+       19where Gilgamish [/oppresses/] the souls of men(?)
+       
+       20And as I ............
+       
+       21thou shalt ........ thyself. <<d0e1412>>[[[#d0e1412][214]]]
+       
+       22Come thou, arise from the ground
+       
+       23unto the place yonder (?) of the shepherd.”
+       
+       24He heard her speak and accepted her words with favor.
+       
+       25The advice of the woman
+       
+       26fell upon his heart.
+       
+       27She tore off one garment
+       
+       28and clothed him with it.
+       
+       29With a second garment
+       
+       30she clothed herself.
+       
+       31She clasped his hand,
+       
+       32guiding him like ..............
+       
+       33unto the mighty presence of the shepherd,
+       
+       34unto the place of the ... of the sheepfolds.
+       
+       35In ......... to shepherd
+       
+       36.............................
+       
+       (About two lines broken away.)
+       
+      ** COL. III
+       :PROPERTIES:
+       :CUSTOM_ID: col.-iii-2
+       :END:
+       
+       1Milk of the cattle
+       
+       2he drank.
+       
+       3Food they placed before him.
+       
+       4He broke bread[[#d0e1457][4]]
+       
+       5gazing and looking.
+       
+       6But Enkidu understood not.
+       
+       7Bread to eat,
+       
+       8beer to drink,
+       
+       9he had not been taught. <<d0e1484>>[[[#d0e1484][215]]]
+       
+       10The hierodule opened her mouth
+       
+       11and said unto Enkidu:---
+       
+       12“Eat bread, oh Enkidu!
+       
+       13It is the conformity of life,
+       
+       14of the conditions and the fate of the land.”
+       
+       15Enkidu ate bread,
+       
+       16until he was satiated.
+       
+       17Beer he drank
+       
+       18seven /times/(?).
+       
+       19His thoughts became unbounded and he shouted loudly.
+       
+       20His heart became joyful,
+       
+       21and his face glowed.
+       
+       22He stroked.................
+       
+       23/the hair of the head/.[[#d0e1518][5]] His body
+       
+       24with oil he anointed.
+       
+       25He became like a man.
+       
+       26He attired himself with clothes
+       
+       27even as does a husband.
+       
+       28He seized his weapon,
+       
+       29which the panther and lion
+       
+       30fells in the night time cruelly.
+       
+       31He captured the wild mountain goats.
+       
+       32The panther he conquered.
+       
+       33Among the great /sheep for sacrifice/
+       
+       34Enkidu was their guard.
+       
+       35A man, a leader,
+       
+       36A hero.
+       
+       37Unto .......... he elevated
+       
+       ...........................
+       
+       (About five lines broken away.) <<d0e1562>>[[[#d0e1562][216]]]
+       
+      ** REVERSE I
+       :PROPERTIES:
+       :CUSTOM_ID: reverse-i-1
+       :END:
+       
+       ..............................
+       
+       1And he made glad.
+       
+       2He lifted up his eyes,
+       
+       3and beheld the man,
+       
+       4and said unto the hierodule:---
+       
+       5“Oh harlot, take away the man.
+       
+       6Wherefore did he come to me?
+       
+       7I would forget the memory of him.”
+       
+       8The hierodule called unto the man
+       
+       9and came unto him beholding him.
+       
+       10She sorrowed and was astonished
+       
+       11how his ways were ............
+       
+       12Behold she opened her mouth
+       
+       13saying unto Enkidu:---
+       
+       14“At home with a family [/to dwell/??]
+       
+       15is the fate of mankind.
+       
+       16Thou shouldest design boundaries(??)
+       
+       17for a city. The trencher-basket put (upon thy head).
+       
+       18.... ......an abode of comfort. <<d0e1608>>[[[#d0e1608][217]]]
+       
+       19For the king of Erech of the wide places
+       
+       20open, addressing thy speech as unto a husband.
+       
+       21Unto Gilgamish king of Erech of the wide places
+       
+       22open, addressing thy speech
+       
+       23as unto a husband.
+       
+       24He cohabits with the wife decreed for him,
+       
+       25even he formerly.
+       
+       26But henceforth
+       
+       27in the counsel which god has spoken,
+       
+       28in the work of his presence
+       
+       29shall be his fate.”
+       
+       30At the mention of the hero
+       
+       31his face became pale.
+       
+      ** REVERSE II
+       :PROPERTIES:
+       :CUSTOM_ID: reverse-ii-1
+       :END:
+       ............................................................
+       
+       (About five lines broken away.)
+       
+       1going .......................
+       
+       2and the harlot ..... after him.
+       
+       3He entered into the midst of Erech of the wide places.
+       
+       4The artisans gathered about him.
+       
+       5And as he stood in the street
+       
+       6of Erech of the wide places,
+       
+       7the people assembled <<d0e1657>>[[[#d0e1657][218]]]
+       
+       8disputing round about him:---
+       
+       9“How is he become like Gilgamish suddenly?
+       
+       10In form he is shorter.
+       
+       11In ........ he is made powerful.
+       
+       12
+       
+       13
+       
+       14Milk of the cattle
+       
+       15he drank.
+       
+       16Continually in the midst of Erech weapons
+       
+       17the heroes purified.
+       
+       18A project was instituted.
+       
+       19Unto the hero whose countenance was turned away,
+       
+       20unto Gilgamish like a god
+       
+       21he became for him a fellow.
+       
+       22For Išhara a couch
+       
+       23was laid.
+       
+       24Gilgamish ...................
+       
+       25In the night he ..............
+       
+       26embracing her in sleep.
+       
+       27They ........ in the street
+       
+       28halting at the ................
+       
+       29of Gilgamish.
+       
+       30.......... mightily(?)
+       
+      ** COL. III
+       :PROPERTIES:
+       :CUSTOM_ID: col.-iii-3
+       :END:
+       
+       1A road(?) ....................
+       
+       2Gilgamish ...................
+       
+       3in the plain .................. <<d0e1715>>[[[#d0e1715][219]]]
+       
+       4his hair growing thickly like the corn.
+       
+       5He came forth ...
+       
+       6into his presence.
+       
+       7They met in the wide park of the land.
+       
+       8Enkidu held fast the door
+       
+       9with his foot,
+       
+       10and permitted not Gilgamish to enter.
+       
+       11They grappled with each other
+       
+       12goring like an ox.
+       
+       13The threshold they destroyed.
+       
+       14The wall they demolished.
+       
+       15Gilgamish and Enkidu
+       
+       16grappled with each other,
+       
+       17goring like an ox.
+       
+       18The threshold they destroyed.
+       
+       19The wall they demolished.
+       
+       20Gilgamish bowed
+       
+       21to the ground at his feet
+       
+       22and his javelin reposed.
+       
+       23He turned back his breast.
+       
+       24After he had turned back his breast,
+       
+       25Enkidu unto that one
+       
+       26spoke, even unto Gilgamish.
+       
+       27“Even as one[[#d0e1764][6]] did thy mother
+       
+       28bear thee,
+       
+       29she the wild cow of the cattle stalls,
+       
+       30Ninsunna,
+       
+       31whose head she exalted more than a husband.
+       <<d0e1775>>[[[#d0e1775][220]]]
+       
+       32Royal power over the people
+       
+       33Enlil has decreed for thee.”
+       
+       Second tablet.
+       
+       Written upon ...
+       
+       240 (lines).
+       
+       <<d0e1787>>[[[#d0e1787][221]]]
+       
+       --------------
+       
+       [[#d0e1292src][1]] Literally “he attained my front.”
+       
+       [[#d0e1308src][2]] IV¹ of /walādu/.
+       
+       [[#d0e1337src][3]] I.e., in the suburb of Erech.
+       
+       [[#d0e1457src][4]] /patāḳu/ has apparently the same sense originally as
+       /batāḳu/, although the one forms its preterite /iptiḳ/, and the other
+       /ibtuḳ/. Cf. also /maḫāṣu/ break, hammer and construct.
+       
+       [[#d0e1518src][5]] The passage is obscure. Here /šuḫuru/ is taken as a
+       loan-word from suģur = ḳimmatu, hair of the head. The infinitive II¹ of
+       /saḫāru/ is philologically possible.
+       
+       [[#d0e1764src][6]] I.e., an ordinary man.
+       
+           
+      ** Index to Parts 2 and 3
+       :PROPERTIES:
+       :CUSTOM_ID: index-to-parts-2-and-3
+       :END:
+      ** A. :PROPERTIES:
+       :CUSTOM_ID: a.
+       :END:
+       Adab, city, 123, 23.
+       
+       /addi/, wailing, 117, 31; 137, 22; 161, 12.
+       
+       /aḫu/, brother, 212, 36.
+       
+       Aja, goddess, 198, 9.
+       
+       /al (giš)/, /al-gar (giš)/, a musical instrument, 187--191. See also No.
+       20 Rev. 7--12. /al-bi/, compound verb, 189 n. 6. In Ni. 8164
+       (unpublished) /al-gar/, /al-gar-balag/ in list with /(giš)-á-lá/, also
+       an instrument of music.
+       
+       /alad/, protecting genius, 154, 18.
+       
+       /ameliš/, like a man, 215, 25.
+       
+       Amurrû, god. Psalm to, 118; 119.
+       
+       /angubba/, sentinel, 180, 14.
+       
+       Anu, god. 116, 18:26 ff. 131, 8; 165, 9; 180, 20.
+       
+       Anunnaki, gods, 114, 17:21; 116, 25; 116 n. 7; 128, 13; 135, 31;
+       189, 21.
+       
+       Anunit, goddess, 158, 12; 166, 2.
+       
+       /apunnatu,/ nostrils, /pitiḳ, apunnāti/, 217, 28.
+       
+       /aṣṣammim/ (?), 215, 18.
+       
+       Arallû, 132, 26; 134, 7.
+       
+       /arāmu/, cover, 198 n. 2.
+       
+       /arāḳu/, be pale, Prt. /iriku/, 217, 31.
+       
+       /arḫiš/, quickly, 199, 28.
+       
+       Aruru, goddess. Lamentation to, 115. Sister of Enlil, 115, 2; 171, 29;
+       190, 25. Other references, 116, 13:15:18; 117, 34 f.
+       
+       Asarludug, god, 163, 8; 170, 4.
+       
+       Aš-im-ur, title of Moon-god, 136, 12. /áš/ omitted, No. 19, 2.
+       
+       /aš-me/, disk, 133, 38.
+       
+       Ašširgi, god, No. 22, Rev. 7.
+       
+       Azagsud, goddess, 196, 30:33; 197, 38.
+       
+      ** B.
+       :PROPERTIES:
+       :CUSTOM_ID: b.
+       :END:
+       Babbar, god, 116, 24; 139, 43; 147, 21; 148, 3; 152.
+       
+       Babylon, city, 158, 14; 160, 6; 163, 8; 166, 4:11.
+       
+       /badara/, see 200 n. 2. /badarani/, a weapon, 133, 36.
+       
+       /balag/, lyre, 138, 52.
+       
+       /bansur/, table; title of a goddess, 175, 3.
+       
+       Bau, goddess, 179, 2; 181, 30; 182, 32; 141, 7:10.
+       
+       /bišîtu/, condition, 215, 14.
+       
+       /bi'u/, cavern, 196, 29.
+       
+       /bulukku/, crab, 174, 5.
+       
+       /burgul/, engraver, 185, 8.
+       
+      ** C.                                                               :PROPERTIES:
+       :CUSTOM_ID: c.
+       :END:
+       Cutha, city. Center of the cult of Nergal, 167, 15.
+       
+      ** D.
+       :PROPERTIES:
+       :CUSTOM_ID: d.
+       :END:
+       Dada, god, 192, 6.
+       
+       Dagan, West Semitic god, 149, 21.
+       
+       Damu, title of Tammuz, 176, 7.
+       
+       Deification of kings, 106--9; 127 n. 1.
+       
+       /dêpu/, shatter, 195 n. 16. <<d0e1951>>[[[#d0e1951][222]]]
+       
+       DI-BAL, ideogram in incantations, 194, 10.
+       
+       Dilbat, city, 167, 16.
+       
+       Dilmun, land and city, 112, 2:4.
+       
+       /dimgul/, /dimdul/, master workman, 150.
+       
+       /dingir-gal-gal-e-ne/, the great gods, the Anunnaki, 114, 21:125;
+       149, 19.
+       
+       dumu-anna, daughter of heaven, title of Bau, 179, 5; 181, 28; 184, 28.
+       
+       /dumu-sag/, title of Tašmet, 163, 12.
+       
+       Dungi, king of Ur, liturgy to, 136.
+       
+       /dupšakku/, trencher basket, 216, 17.
+       
+       Duranki, epithet for Nippur, 122, 18; 180, 11.
+       
+      ** E.
+       :PROPERTIES:
+       :CUSTOM_ID: e.
+       :END:
+       E-anna, temple in Erech, 123, 30; 125; 148, 12; 213, 18.
+       
+       E-babbar, temple of the sun god, 152; 158, 11; 166, 1. Perhaps read
+       E-barra.
+       
+       E-daranna, temple of Enki in Babylon, 169, 25; 170, 29. See BL. 133.
+       
+       /edēlu/ = /edēru/, be gloomy, 216, 10.
+       
+       /é-dub/, house of learning, 117, 39.
+       
+       /é-gal/, palace, No. 19, Rev. 3; 115, 11; 131, 7; 134, 22; 158, 9.
+       
+       /é-gig/ = /ḳiṣṣu/, 191, 11.
+       
+       E-ibe-Anu, temple in Dilbat, 167, 16.
+       
+       E-kinammaka, temple, 115, 10.
+       
+       E-kišibba, temple in Kish, 166, 13.
+       
+       E-kur, temple, 180, 12; 183, 23; 190, 7; 146, 9; 147, 17; 158, 8; 160,
+       4; 166, 17; 169, 23.
+       
+       Emaḫ, Ešmaḫ, ritual house of the water cult of Marduk, 163, 7; 115, 4.
+       
+       E-malga-sud, temple, 181, 24; 141, 3.
+       
+       E-meteg, daughter of Ninkasi, 144.
+       
+       E-mete-ursag, temple in Kish, 166, 13.
+       
+       E-namtila, temple, 160, 4; 169, 24.
+       
+       /en-a-nu-un/, /en-á-nun/, title of Innini and Gula, 173, 2.
+       
+       Enbilulu, title of Marduk, 170, 5.
+       
+       E-ninnû, temple, 181, 22.
+       
+       /EN-ḪUL-tim-mu/, 194 n. 2.
+       
+       /EN-KA-KA, bêl dabābi/, 194, 2.
+       
+       Enki, god. Hymn to, No. 20, 113, 7; 114, 10; 116, 21; 122, 7; 149, 16.
+       
+       Enkidu, satyr, 213, 3:7:10:11; 214, 6; 215, 11:12:15:34; 216, 13; 219,
+       8:15:25; 131, 11; 134, 16; 178, 13.
+       
+       Enlil, god. Liturgy to, 155--184. Regarded as god of light, 157, 1 ff.
+       158, 3 f. Other references, 114, 19; 115, 2; 116, 19; 131, 6; 136, 5;
+       139, 40; 149, 22; 146, 3:7:14; 189, 11:19; 220, 33.
+       
+       Enul, god, 149, 16.
+       
+       Enzu, god, 139, 41; 146, 3.
+       
+       /epšānu/, deeds, 218, 18.
+       
+       /epû/, be dark, I² /itêpû/, 196, 29.
+       
+       Erech, city, 125; 149, 13. Erech /ribîtim/, 212, 28; 213, 15; 217,
+       19:21; 217, 3:6.
+       
+       eri-azag, holy city, Isin, 141, 8.
+       
+       /erida/, title, 175, 1.
+       
+       Eridu, city, 113, 20; 136, 13.
+       
+       Erishkigal, goddess, 131, 10; 134, 11.
+       
+       /eršagtugmal/, penitential psalm, 118.
+       
+       E-sagila, temple, 152.
+       
+       E-sakudkalamma, temple, 166, 10; 169 n. 4.
+       
+       /ešendili/, a title, 177, 10. <<d0e2099>>[[[#d0e2099][223]]]
+       
+       /eškar/, fixed tax, 188, 9.
+       
+       /eš-lal/, a sacred place, 161, 14.
+       
+       E-temen-anki, temple, 169, 25.
+       
+       E-turkalamma, temple, 166, 14.
+       
+       Euphrates, river, 183, 12; 183, 20.
+       
+       E-zida, temple, 166, 12.
+       
+       Ezina, grain goddess, 174, 9.
+       
+       Ezira, reading of the divine name /KA-DI/, 177, 11.
+       
+      ** F.
+       :PROPERTIES:
+       :CUSTOM_ID: f.
+       :END:
+       Fara, modern Arabic name for the site of Isin (?), 177 n. 4.
+       
+      * G.
+      :PROPERTIES:
+      :CUSTOM_ID: g.
+      :END:
+      /GAB/, baked bread, 200, 33.
+
+      /GAB-LAL/, a cake made with honey, 195, 22; 200, 35.
+
+      /GAR-šunnu = epišan-šunu/, 198, 13.
+
+      /gašan-gula/, title of Ninâ, 119 n. 2.
+
+      /gepar/, dark chamber, 123, 30 f., 148, 10; 161, 18.
+
+      Gibil, god, 197, 3.
+
+      /gi-gál(giš)/,interlude, 151 n. 1; 182, 33.
+
+      /gigunna/, 114, 23.
+
+      Gilgamish, king of Erech, 207; 211, 1:115 f. 212, 17:37; 213, 2; 217,
+      21; 218, 9:20:24:29 and below 2; 219, 10;15:20:26. Derivation of
+      name, 208. See also No. 16 Rev. II 15; 197, 42; 124 f.
+
+      /gilsa/, a sacred relic, 132, 22.
+
+      Girra, /Irra/, god, 174, 7; 177, 12.
+
+      /girru/, lion, 215, 29.
+
+      Girsu, city, 181, 23.
+
+      Guanna, deity, No. 16 Rev. II 18.
+
+      Guedin, province, 129, 28.
+
+      Gunura, goddess of healing, 176, 6.
+
+      /gupru/, mighty, 214, 33.
+
+      Gutium, land, 120 ff.
+
+      * H.
+      :PROPERTIES:
+      :CUSTOM_ID: h.
+      :END:
+      Hallab, city, 125; 141.
+
+      /ḫanābu/, grow thickly, Prs. /ibannib/, 219, 4.
+
+      /ḫapāpu/, embrace, 212, 34.
+
+      /ḫaṣṣinu/, axe, 212, 29:31.
+
+      /ḫarbatu/, waste place, 200, 39.
+
+      Harsagkalamma, temple, 166, 14.
+
+      Hubur, mythical river, 197, 42.
+
+      /ḫûlu/, a bird, 199, 31.
+
+      /ḫûḳu/, a bird, 199, 31.
+
+      * I.
+      :PROPERTIES:
+      :CUSTOM_ID: i.
+      :END:
+      Ibi-Sin, king of Ur, 151 n. 2.
+
+      /ibsi/, liturgical expression, 120, 5.
+
+      Igigi, heaven spirits, 116 n. 6.
+
+      /IGI-NAGIN-NA/, 194, 11.
+
+      /imib/, weapon, 131, 8. /mi-ib/, ibid. n.3.
+
+      /imin/, seven. Seven lands, 130, 35; seventh day, 134, 18.
+
+      Immer, god, 177, 8.
+
+      Indag, god, consort of Gula, 173, 3.
+
+      Innini, goddess, 123. Liturgy to, 184; 123, 29. Consort of Shamash,
+      148, 4. Other references, 154, 21.
+
+      /iṣṣur šamê/, unclean birds, 195 n. 10.
+
+      Išhara, goddess, 218, 22.
+
+      Isin, city, 122, 15; 176, 4.
+
+      Ishme-Dagan, 178 ff. Son of Enlil, 181, 29; 182, 32. Liturgy to, 143.
+
+      * K.
+      :PROPERTIES:
+      :CUSTOM_ID: k.
+      :END:
+      /KA-DIB-BI, sibit pî/, 194, 10.
+
+      /KAK-DIG/, a weapon, 130, 4.
+
+      /kakkitu/ (?), weapon. Pl. /kakkiatum/, 218, 16.
+
+      /KAK-SIR/, a weapon (?), 130, 4. <<d0e2290>>[[[#d0e2290][121]]]
+
+      /kalama/, the Land, Sumer, 138, 25; 141, 5; 147, 22; 150, 4; 154, 17;
+      177, 9.
+
+      /kanami/=/kalama/, land, 120, 8.
+
+      KA-NE, a new ideograph, 153 n. 10.
+
+      /kasû/, bind. I² /liktisu/, 198, 20.
+
+      Kenurra, chapel of Ninlil, 114, 22; 123, 20; 160, 4; 166, 18; 166, 8;
+      169, 24.
+
+      Keš, city, 115, 11; 123, 22.
+
+      /kešda-azag/, a relic, 132, 27.
+
+      /ki/, /kin/ for /gim/ = /kima/, 120, 6.
+
+      KI-AG-MAL, /râmu/, 194 n. 4.
+
+      Kidurkazal, daughter of Ninkasi, 145.
+
+      /ki-malla/, to bend. /tig-zu ki-ma-al-la nu-gí-gí/, “Thy neck wearies
+      not in bending,” 168, 2. [Correct the translation.]
+
+      /ki-in-gin, ki-en-gin/, Sumer, 115, 24; 134, 19; 189, 17.
+
+      /KI-SAR, ḳaḳḳara tašabbiṭ/, 199, 29.
+
+      Kish, city, 129, 30; 166, 12. /é kiš-(ki)-šú/, so read, No. 5 Obv. 8.
+
+      Kullab, city, 149, 14; 173, 1.
+
+      /kunin, gunin/, reed basket, 150 n. 3.
+
+      /kurgal/, “great mountain,” title of Sumer, 114, 11. Of Enlil, 114, 19;
+      182, 5.
+
+      /KURUN-NA/, (/amelu/), 196, 34.
+
+      /KUŠ-KU-MAL/, 194, 11.
+
+      * L.
+      :PROPERTIES:
+      :CUSTOM_ID: l.
+      :END:
+      /la'aṭu/, gore. Prt. /ilûdu/, 219, 12:17.
+
+      /labu/, panther, 215, 29:32.
+
+      Lagash, city, 181, 23:26.
+
+      /Laḫama/, goddess of Chaos, 113, 5.
+
+      Laws, promulgated by Dungi, 138, 31.
+
+      Libit-Ishtar, king, 141.
+
+      /libšu/, garment, 214, 27:29; 215, 26.
+
+      Ligirsig, a god, 113, 3.
+
+      /lilazag/, epithet of a deified king, 141, 1.
+
+      Lillaenna, goddess, 192, 5.
+
+      /limēnu/, be evil. II¹ /ulammenu-inni/, 197, 7.
+
+      Lugal-dīg, god, 197, 5.
+
+      /lu'ûtu/, pollution, 195, 19.
+
+      * M.
+      :PROPERTIES:
+      :CUSTOM_ID: m.
+      :END:
+      Magan, land, 112, 2:5.
+
+      /mai̭ālu/, couch, 218, 22.
+
+      /malāšu/, shear, 195, 20.
+
+      Mamit, 200, 41.
+
+      /mandatu/, form, 195, 21.
+
+      /mal-gar/ (/gi/), a musical instrument, 191, 10.
+
+      /mangu/, disease, 195, 19.
+
+      Marduk, god, 151.
+
+      /markasu/, leader, 150.
+
+      /masû/, seize, 195 n. 5.
+
+      /mašû/, to forget, 216, 7.
+
+      Me-azag, daughter of Ninkasi, 144.
+
+      /meḫru/, fellow, 218, 21.
+
+      Meḫuš, daughter of Ninkasi, 144.
+
+      Meluḫḫa, land, 112, 6.
+
+      Meslam, temple in Cutha, 167, 15.
+
+      /mesû/, a tree, 159, 23.
+
+      /muk/, now, but now, 217, 26.
+
+      Mulgenna, Saturn, 137, 18.
+
+      Mulmul, gods, 142.
+
+      * N.
+      :PROPERTIES:
+      :CUSTOM_ID: n.
+      :END:
+      /nâdu/, water bottle, 198, 17.
+
+      /nadîtu/, temple devotee, 188, 7.
+
+      /nagû/, shout. Prs. /inangu/, 215, 19.
+
+      /nâku/, embrace, 218, 26.
+
+      /namaštû/, cattle, etc., 213, 12:17; 214, 1; 219, 14.
+
+      Namtar, god, 197, 3; 132, 24.
+
+      Nangt, goddess, 192, 7. <<d0e2527>>[[[#d0e2527][225]]]
+
+      Nannar, god, 115, 12; 116, 23; 133, 38; 137, 11; 150, 2.
+
+      Nergal, god, 131, 6.
+
+      Nidaba, goddess, 191.
+
+      /ni-gál/, cattle, 121, 6.
+
+      /nimir = ligir/, 174, 4.
+
+      /ninda/, linear measure, 133, 41.
+
+      Ningal, goddess, No. 19, 5; 148, 3; 151, 3.
+
+      Ningišzida, god, 133, 34.
+
+      Nin-isinna, goddess, 122, 16; 191, 15.
+
+      Ninkasi, goddess, 144.
+
+      Ninki, goddess, 149, 16.
+
+      Ninlil, goddess, 116, 20; 123, 20; 137, 12; 146, 14.
+
+      Ninmada, daughter of Ninkasi, 144.
+
+      Ninmaḫ, goddess, 116, 22.
+
+      Ninmenna, epithet of Damgalnunna, 190, 27.
+
+      Ninsun, goddess, 219, 30; 208 n. 6; 129; 131, 16 (?).
+
+      Nintudri, goddess, 123, 26. Nintudra, 137, 16. Creatress of man and
+      woman, 192.
+
+      Ninul, goddess, 149, 16.
+
+      Ninurašâ, god, 191, 12; 146, 12.
+
+      Ninzuanna, goddess, 122, 13.
+
+      Nippur, city, 112, 8; 122, 18:19; 160, 3; 169, 21; 180, 11; 149, 18;
+      158, 7; 165, 16.
+
+      /NI-SUR/ (/amelu/), 196, 35.
+
+      Nudimmud, god, 199, 25. No. 20, 10.
+
+      /nugiganna/, epithet of Innini, 185, 2.
+
+      /nûn apsi/, unclean fish, 195 n. 11.
+
+      Nunamnirri, god, 190, 28; 146, 13; 180, 10:13:17.
+
+      /nun-ùr/, epithet of Amurrû, 119, 3.
+
+      Nusiligga, daughter of Ninkasi, 144.
+
+      Nusku, god, 146, 7; 163, 13.
+
+      * P.
+      :PROPERTIES:
+      :CUSTOM_ID: p.
+      :END:
+      Pabilsag, god. Son and consort of Gula, 173 n. 3; 176, 5. A form of
+      Tammuz.
+
+      /pananumma/, formerly, 217, 25.
+
+      Panunnaki, goddess, consort of Marduk, 163, 9.
+
+      /patāḳu/, fashion, break, 214, 4.
+
+      /paturru/, a weapon, 200, 37.
+
+      Pleiades, 142.
+
+      * R.
+      :PROPERTIES:
+      :CUSTOM_ID: r.
+      :END:
+      /ratātu/, demolish, 219, 19.
+
+      Rimat ^{ilat}Ninsun, 208 n. 6; 219, 29.
+
+      Ruškišag, goddess, 132, 28.
+
+      /RU-TIG/, an epithet, 141, 2.
+
+      * S.
+      :PROPERTIES:
+      :CUSTOM_ID: s.
+      :END:
+      /sa-bar; sa-sud-da/, liturgical note, 182, 31.
+
+      /šabšiš/, cruelly, 215, 30.
+
+      Sagilla, temple, 158, 15. E-sagila, 160, 5; 166, 5; 166, 11.
+
+      /šaḫātu/, be astounded, 216, 10. Arabic /saḫiṭa/.
+
+      /ṣai̭āḫatu/, desire, comfort, 216, 18.
+
+      /šakāpu/, fell. I² /išsakpu/, 215, 30.
+
+      /ṣalûtu/, enmity, 199, 27.
+
+      Šamaš, god, 197, 4:8; 198, 10:13; 199, 25:31.
+
+      Šamaš-šum-ukin, king. Incantations for, 193--200; 199, 23.
+
+      Samsuiluna, king, 151.
+
+      /SAR-DI-DA/, a relic, 133, 37.
+
+      Serpent adversary, 183, 21; 148, 12.
+
+      Seven, sacred number. Seven gods, 196, 30.
+
+      Ship, in legend, 113, 2.
+
+      Silsirsir, a chapel.
+
+      Sin, god. Hymn to, No. 19.
+
+      /sippu/, threshold, 219, 13:18. <<d0e2701>>[[[#d0e2701][226]]]
+
+      /Sippar/, city, 158, 10; 160, 5; 166, 19.
+
+      /sirgidda/, long song, 140, 54.
+
+      Siriš, daughter of Ninkasi, 144.
+
+      Siriškaš, daughter of Ninkasi, 144.
+
+      Siriškašgig, daughter of Ninkasi, 144.
+
+      /sirsagga/, first melody, 117, 28; 139, 48.
+
+      /ŠU-AN = kat ili/, 194, 12. See also /ŠU-^{d}INNINI/, 194, 12.
+
+      /ŠU-NAM-ERIM-MA/, 194, 13.
+
+      /ŠU-NAM-LU-GAL-LU/, 194, 13.
+
+      /subura/, earth, 175, 3.
+
+      /su-ud, sú-ud-ám/, epithet of goddess of Šuruppak, 177, 10 and note 4.
+
+      /šuḫuru/, hair (?), 215, 23.
+
+      /sukkal-zid/, title of Nebo, 163, 10.
+
+      Šulpae, god, No. 16 II 22.
+
+      Sumer, land, 113, 21; 114, 11; 136, 2.
+
+      /sumugan/, title of Girra, 177, 12 and note; 179, 3.
+
+      * T.
+      :PROPERTIES:
+      :CUSTOM_ID: t.
+      :END:
+      Tablet of fates, 132 n. 3.
+
+      Tammuz, ancient ruler, 208. Liturgy to, 191. Other references, 126; 208;
+      131, 20.
+
+      /tapāšu/, seize, capture, II² /uttappiš/, 215, 31.
+
+      /temēru/, cook, 196, 35.
+
+      Tigris, river, 183, 12.
+
+      Tummal, land, 190, 9; 191, 10.
+
+      * U.
+      :PROPERTIES:
+      :CUSTOM_ID: u.
+      :END:
+      /ud/, spirit, word, 150, 1:4; 158, 16; 159, 17:24.
+
+      /ul-al-tar/, 191 n. 6.
+
+      /ulinnu/, girdle cord, 195, 20.
+
+      Ulmaš, temple of Anunit, 158, 13; 166, 3.
+
+      Ur, city, 134, 21; 137, 6. Lamentation for, 150. Other references, No.
+      19, 4:7:8:16:28: Rev. 5; 151, 3.
+
+      Ur-azag, king of Isin (?), 140 n. 2.
+
+      Ur-Engur, king of Ur, 126 ff.
+
+      /urinu/, spear (?), 173, 3.
+
+      /ursaggal/, epithet for Ninurašā, 165, 11. For Enbilulu, 170, 5.
+
+      /ušumgal/, 117, 33.
+
+      * Z.
+      :PROPERTIES:
+      :CUSTOM_ID: z.
+      :END:
+      /zâbu/, flow. /li-zu-bu/, 198, 16. Cf. /gàm = za'ibu, miṭirtu/, words
+      for canal, SAI. 691--3.
+
+      /zag-sal/, liturgical note, 103 f. No. 21 end.
+
+      /za-am/, 138, 34; 139, 38; 140, 56.
+
+      /zênu/, be enraged, II¹ /uzinu-inni/, 197, 6.
+
+      /ZI-TAR-RU-DA = nikis napišti/, 194 n. 6. <<d0e2851>>[[[#d0e2851][124]]]
+
+      ** Description of Tablets
+      :PROPERTIES:
+      :CUSTOM_ID: description-of-tablets
+      :END:
+      Number in this volume. 1
+
+      Museum number. 7771
+
+      Description.
+
+      Dark brown unbaked tablet. Three columns. Lower edge slightly broken.
+      Knobs at left upper and left lower corners to facilitate the holding of
+      the tablet. H. 7 inches: W. 6½; T. 1½. Second tablet of the Epic of
+      Gilgamish. <<d0e2863>>[[[#d0e2863][125]]]
+
+      * Autograph Plates
+      :PROPERTIES:
+      :CUSTOM_ID: autograph-plates
+      :END:
+
+      *** Plate LXIII.
+      :PROPERTIES:
+      :CUSTOM_ID: plate-lxiii.
+      :END:
+      [[file:images/plate-63.gif]]
+
+      *** Plate LXIV.
+      :PROPERTIES:
+      :CUSTOM_ID: plate-lxiv.
+      :END:
+      [[file:images/plate-64.gif]]
+
+      *** Plate LXV.
+      :PROPERTIES:
+      :CUSTOM_ID: plate-lxv.
+      :END:
+      [[file:images/plate-65.gif]]
+
+      *** Plate LXVI.
+      :PROPERTIES:
+      :CUSTOM_ID: plate-lxvi.
+      :END:
+      [[file:images/plate-66.gif]]
+
+      *** Plate LXVII.
+      :PROPERTIES:
+      :CUSTOM_ID: plate-lxvii.
+      :END:
+      [[file:images/plate-67.gif]]
+
+      *** Plate LXVIII.
+      :PROPERTIES:
+      :CUSTOM_ID: plate-lxviii.
+      :END:
+      [[file:images/plate-68.gif]]
+
+      *** Plate LXIX.
+      :PROPERTIES:
+      :CUSTOM_ID: plate-lxix.
+      :END:
+      [[file:images/plate-69.jpg]]
+
+      Tablet of the Gilgamish Epic (Obverse)
+
+      *** Plate LXX.
+      :PROPERTIES:
+      :CUSTOM_ID: plate-lxx.
+      :END:
+      [[file:images/plate-70.jpg]]
+
+      Tablet of the Gilgamish Epic (Reverse)
+
+      #+begin_example
+      #+end_example
+
+      <<pg-footer>>
+
+      <<pg-end-separator>>
+      ​*** END OF THE PROJECT GUTENBERG EBOOK THE EPIC OF GILGAMISH ***
+
+      Updated editions will replace the previous one---the old editions will
+      be renamed.
+
+      Creating the works from print editions not protected by U.S. copyright
+      law means that no one owns a United States copyright in these works, so
+      the Foundation (and you!) can copy and distribute it in the United
+      States without permission and without paying copyright royalties.
+      Special rules, set forth in the General Terms of Use part of this
+      license, apply to copying and distributing Project Gutenberg™ electronic
+      works to protect the PROJECT GUTENBERG™ concept and trademark. Project
+      Gutenberg is a registered trademark, and may not be used if you charge
+      for an eBook, except by following the terms of the trademark license,
+      including paying royalties for use of the Project Gutenberg trademark.
+      If you do not charge anything for copies of this eBook, complying with
+      the trademark license is very easy. You may use this eBook for nearly
+      any purpose such as creation of derivative works, reports, performances
+      and research. Project Gutenberg eBooks may be modified and printed and
+      given away---you may do practically ANYTHING in the United States with
+      eBooks not protected by U.S. copyright law. Redistribution is subject to
+      the trademark license, especially commercial redistribution.
+
+      <<project-gutenberg-license>>
+      START: FULL LICENSE
+
+      ** THE FULL PROJECT GUTENBERG LICENSE
+      :PROPERTIES:
+      :CUSTOM_ID: pg-footer-heading
+      :END:
+
+      PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+      To protect the Project Gutenberg™ mission of promoting the free
+      distribution of electronic works, by using or distributing this work (or
+      any other work associated in any way with the phrase “Project
+      Gutenberg”), you agree to comply with all the terms of the Full Project
+      Gutenberg™ License available with this file or online at
+      www.gutenberg.org/license.
+
+      Section 1. General Terms of Use and Redistributing Project Gutenberg™
+      electronic works
+
+      1.A. By reading or using any part of this Project Gutenberg™ electronic
+      work, you indicate that you have read, understand, agree to and accept
+      all the terms of this license and intellectual property
+      (trademark/copyright) agreement. If you do not agree to abide by all the
+      terms of this agreement, you must cease using and return or destroy all
+      copies of Project Gutenberg™ electronic works in your possession. If you
+      paid a fee for obtaining a copy of or access to a Project Gutenberg™
+      electronic work and you do not agree to be bound by the terms of this
+      agreement, you may obtain a refund from the person or entity to whom you
+      paid the fee as set forth in paragraph 1.E.8.
+
+      1.B. “Project Gutenberg” is a registered trademark. It may only be used
+      on or associated in any way with an electronic work by people who agree
+      to be bound by the terms of this agreement. There are a few things that
+      you can do with most Project Gutenberg™ electronic works even without
+      complying with the full terms of this agreement. See paragraph 1.C
+      below. There are a lot of things you can do with Project Gutenberg™
+      electronic works if you follow the terms of this agreement and help
+      preserve free future access to Project Gutenberg™ electronic works. See
+      paragraph 1.E below.
+
+      1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation”
+      or PGLAF), owns a compilation copyright in the collection of Project
+      Gutenberg™ electronic works. Nearly all the individual works in the
+      collection are in the public domain in the United States. If an
+      individual work is unprotected by copyright law in the United States and
+      you are located in the United States, we do not claim a right to prevent
+      you from copying, distributing, performing, displaying or creating
+      derivative works based on the work as long as all references to Project
+      Gutenberg are removed. Of course, we hope that you will support the
+      Project Gutenberg™ mission of promoting free access to electronic works
+      by freely sharing Project Gutenberg™ works in compliance with the terms
+      of this agreement for keeping the Project Gutenberg™ name associated
+      with the work. You can easily comply with the terms of this agreement by
+      keeping this work in the same format with its attached full Project
+      Gutenberg™ License when you share it without charge with others.
+
+      1.D. The copyright laws of the place where you are located also govern
+      what you can do with this work. Copyright laws in most countries are in
+      a constant state of change. If you are outside the United States, check
+      the laws of your country in addition to the terms of this agreement
+      before downloading, copying, displaying, performing, distributing or
+      creating derivative works based on this work or any other Project
+      Gutenberg™ work. The Foundation makes no representations concerning the
+      copyright status of any work in any country other than the United
+      States.
+
+      1.E. Unless you have removed all references to Project Gutenberg:
+
+      1.E.1. The following sentence, with active links to, or other immediate
+      access to, the full Project Gutenberg™ License must appear prominently
+      whenever any copy of a Project Gutenberg™ work (any work on which the
+      phrase “Project Gutenberg” appears, or with which the phrase “Project
+      Gutenberg” is associated) is accessed, displayed, performed, viewed,
+      copied or distributed:
+
+      #+begin_quote
+
+      This eBook is for the use of anyone anywhere in the United States and
+      most other parts of the world at no cost and with almost no restrictions
+      whatsoever. You may copy it, give it away or re-use it under the terms
+      of the Project Gutenberg License included with this eBook or online at
+      [[https://www.gutenberg.org][www.gutenberg.org]]. If you are not located
+      in the United States, you will have to check the laws of the country
+      where you are located before using this eBook.
+      #+end_quote
+
+      1.E.2. If an individual Project Gutenberg™ electronic work is derived
+      from texts not protected by U.S. copyright law (does not contain a
+      notice indicating that it is posted with permission of the copyright
+      holder), the work can be copied and distributed to anyone in the United
+      States without paying any fees or charges. If you are redistributing or
+      providing access to a work with the phrase “Project Gutenberg”
+      associated with or appearing on the work, you must comply either with
+      the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+      for the use of the work and the Project Gutenberg™ trademark as set
+      forth in paragraphs 1.E.8 or 1.E.9.
+
+      1.E.3. If an individual Project Gutenberg™ electronic work is posted
+      with the permission of the copyright holder, your use and distribution
+      must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+      terms imposed by the copyright holder. Additional terms will be linked
+      to the Project Gutenberg™ License for all works posted with the
+      permission of the copyright holder found at the beginning of this work.
+
+      1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+      License terms from this work, or any files containing a part of this
+      work or any other work associated with Project Gutenberg™.
+
+      1.E.5. Do not copy, display, perform, distribute or redistribute this
+      electronic work, or any part of this electronic work, without
+      prominently displaying the sentence set forth in paragraph 1.E.1 with
+      active links or immediate access to the full terms of the Project
+      Gutenberg™ License.
+
+      1.E.6. You may convert to and distribute this work in any binary,
+      compressed, marked up, nonproprietary or proprietary form, including any
+      word processing or hypertext form. However, if you provide access to or
+      distribute copies of a Project Gutenberg™ work in a format other than
+      “Plain Vanilla ASCII” or other format used in the official version
+      posted on the official Project Gutenberg™ website (www.gutenberg.org),
+      you must, at no additional cost, fee or expense to the user, provide a
+      copy, a means of exporting a copy, or a means of obtaining a copy upon
+      request, of the work in its original “Plain Vanilla ASCII” or other
+      form. Any alternate format must include the full Project Gutenberg™
+      License as specified in paragraph 1.E.1.
+
+      1.E.7. Do not charge a fee for access to, viewing, displaying,
+      performing, copying or distributing any Project Gutenberg™ works unless
+      you comply with paragraph 1.E.8 or 1.E.9.
+
+      1.E.8. You may charge a reasonable fee for copies of or providing access
+      to or distributing Project Gutenberg™ electronic works provided that:
+
+      - • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method you
+        already use to calculate your applicable taxes. The fee is owed to the
+        owner of the Project Gutenberg™ trademark, but he has agreed to donate
+        royalties under this paragraph to the Project Gutenberg Literary
+        Archive Foundation. Royalty payments must be paid within 60 days
+        following each date on which you prepare (or are legally required to
+        prepare) your periodic tax returns. Royalty payments should be clearly
+        marked as such and sent to the Project Gutenberg Literary Archive
+        Foundation at the address specified in Section 4, “Information about
+        donations to the Project Gutenberg Literary Archive Foundation.”
+      - • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he does
+        not agree to the terms of the full Project Gutenberg™ License. You
+        must require such a user to return or destroy all copies of the works
+        possessed in a physical medium and discontinue all use of and all
+        access to other copies of Project Gutenberg™ works.
+      - • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+      - • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+
+      1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™
+      electronic work or group of works on different terms than are set forth
+      in this agreement, you must obtain permission in writing from the
+      Project Gutenberg Literary Archive Foundation, the manager of the
+      Project Gutenberg™ trademark. Contact the Foundation as set forth in
+      Section 3 below.
+
+      1.F.
+
+      1.F.1. Project Gutenberg volunteers and employees expend considerable
+      effort to identify, do copyright research on, transcribe and proofread
+      works not protected by U.S. copyright law in creating the Project
+      Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+      electronic works, and the medium on which they may be stored, may
+      contain “Defects,” such as, but not limited to, incomplete, inaccurate
+      or corrupt data, transcription errors, a copyright or other intellectual
+      property infringement, a defective or damaged disk or other medium, a
+      computer virus, or computer codes that damage or cannot be read by your
+      equipment.
+
+      1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+      of Replacement or Refund” described in paragraph 1.F.3, the Project
+      Gutenberg Literary Archive Foundation, the owner of the Project
+      Gutenberg™ trademark, and any other party distributing a Project
+      Gutenberg™ electronic work under this agreement, disclaim all liability
+      to you for damages, costs and expenses, including legal fees. YOU AGREE
+      THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF
+      WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3.
+      YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR
+      UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT,
+      INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE
+      NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+
+      1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect
+      in this electronic work within 90 days of receiving it, you can receive
+      a refund of the money (if any) you paid for it by sending a written
+      explanation to the person you received the work from. If you received
+      the work on a physical medium, you must return the medium with your
+      written explanation. The person or entity that provided you with the
+      defective work may elect to provide a replacement copy in lieu of a
+      refund. If you received the work electronically, the person or entity
+      providing it to you may choose to give you a second opportunity to
+      receive the work electronically in lieu of a refund. If the second copy
+      is also defective, you may demand a refund in writing without further
+      opportunities to fix the problem.
+
+      1.F.4. Except for the limited right of replacement or refund set forth
+      in paragraph 1.F.3, this work is provided to you ‘AS-IS', WITH NO OTHER
+      WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+      WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+      1.F.5. Some states do not allow disclaimers of certain implied
+      warranties or the exclusion or limitation of certain types of damages.
+      If any disclaimer or limitation set forth in this agreement violates the
+      law of the state applicable to this agreement, the agreement shall be
+      interpreted to make the maximum disclaimer or limitation permitted by
+      the applicable state law. The invalidity or unenforceability of any
+      provision of this agreement shall not void the remaining provisions.
+
+      1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+      trademark owner, any agent or employee of the Foundation, anyone
+      providing copies of Project Gutenberg™ electronic works in accordance
+      with this agreement, and any volunteers associated with the production,
+      promotion and distribution of Project Gutenberg™ electronic works,
+      harmless from all liability, costs and expenses, including legal fees,
+      that arise directly or indirectly from any of the following which you do
+      or cause to occur: (a) distribution of this or any Project Gutenberg™
+      work, (b) alteration, modification, or additions or deletions to any
+      Project Gutenberg™ work, and (c) any Defect you cause.
+
+      Section 2. Information about the Mission of Project Gutenberg™
+
+      Project Gutenberg™ is synonymous with the free distribution of
+      electronic works in formats readable by the widest variety of computers
+      including obsolete, old, middle-aged and new computers. It exists
+      because of the efforts of hundreds of volunteers and donations from
+      people in all walks of life.
+
+      Volunteers and financial support to provide volunteers with the
+      assistance they need are critical to reaching Project Gutenberg™'s goals
+      and ensuring that the Project Gutenberg™ collection will remain freely
+      available for generations to come. In 2001, the Project Gutenberg
+      Literary Archive Foundation was created to provide a secure and
+      permanent future for Project Gutenberg™ and future generations. To learn
+      more about the Project Gutenberg Literary Archive Foundation and how
+      your efforts and donations can help, see Sections 3 and 4 and the
+      Foundation information page at www.gutenberg.org.
+
+      Section 3. Information about the Project Gutenberg Literary Archive
+      Foundation
+
+      The Project Gutenberg Literary Archive Foundation is a non-profit
+      501(c)(3) educational corporation organized under the laws of the state
+      of Mississippi and granted tax exempt status by the Internal Revenue
+      Service. The Foundation's EIN or federal tax identification number is
+      64-6221541. Contributions to the Project Gutenberg Literary Archive
+      Foundation are tax deductible to the full extent permitted by U.S.
+      federal laws and your state's laws.
+
+      The Foundation's business office is located at 809 North 1500 West, Salt
+      Lake City, UT 84116, (801) 596-1887. Email contact links and up to date
+      contact information can be found at the Foundation's website and
+      official page at www.gutenberg.org/contact
+
+      Section 4. Information about Donations to the Project Gutenberg Literary
+      Archive Foundation
+
+      Project Gutenberg™ depends upon and cannot survive without widespread
+      public support and donations to carry out its mission of increasing the
+      number of public domain and licensed works that can be freely
+      distributed in machine-readable form accessible by the widest array of
+      equipment including outdated equipment. Many small donations ($1 to
+      $5,000) are particularly important to maintaining tax exempt status with
+      the IRS.
+
+      The Foundation is committed to complying with the laws regulating
+      charities and charitable donations in all 50 states of the United
+      States. Compliance requirements are not uniform and it takes a
+      considerable effort, much paperwork and many fees to meet and keep up
+      with these requirements. We do not solicit donations in locations where
+      we have not received written confirmation of compliance. To SEND
+      DONATIONS or determine the status of compliance for any particular state
+      visit [[https://www.gutenberg.org/donate/][www.gutenberg.org/donate]].
+
+      While we cannot and do not solicit contributions from states where we
+      have not met the solicitation requirements, we know of no prohibition
+      against accepting unsolicited donations from donors in such states who
+      approach us with offers to donate.
+
+      International donations are gratefully accepted, but we cannot make any
+      statements concerning tax treatment of donations received from outside
+      the United States. U.S. laws alone swamp our small staff.
+
+      Please check the Project Gutenberg web pages for current donation
+      methods and addresses. Donations are accepted in a number of other ways
+      including checks, online payments and credit card donations. To donate,
+      please visit: www.gutenberg.org/donate.
+
+      Section 5. General Information About Project Gutenberg™ electronic works
+
+      Professor Michael S. Hart was the originator of the Project Gutenberg™
+      concept of a library of electronic works that could be freely shared
+      with anyone. For forty years, he produced and distributed Project
+      Gutenberg™ eBooks with only a loose network of volunteer support.
+
+      Project Gutenberg™ eBooks are often created from several printed
+      editions, all of which are confirmed as not protected by copyright in
+      the U.S. unless a copyright notice is included. Thus, we do not
+      necessarily keep eBooks in compliance with any particular paper edition.
+
+      Most people start at our website which has the main PG search facility:
+      [[https://www.gutenberg.org][www.gutenberg.org]].
+
+      This website includes information about Project Gutenberg™, including
+      how to make donations to the Project Gutenberg Literary Archive
+      Foundation, how to help produce our new eBooks, and how to subscribe to
+      our email newsletter to hear about new eBooks.

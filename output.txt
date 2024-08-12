@@ -1,0 +1,96 @@
+.
+├── Al-Quran
+│   └── Quran.org
+├── BhagavadGita
+│   └── BhagavadGita.org
+├── EpicOfGilgamesh
+│   ├── EpicofGilGamesh.org
+│   └── pg18897-images.html
+├── Hamlet
+│   ├── Hamlet.org
+│   ├── Hamlet.txt
+│   ├── pg1524-images.html
+│   └── pg1524.txt
+├── KJV
+│   └── kjv-org
+│       ├── 1Chronicles.org
+│       ├── 1Corinthians.org
+│       ├── 1John.org
+│       ├── 1Kings.org
+│       ├── 1Peter.org
+│       ├── 1Samuel.org
+│       ├── 1Thessalonians.org
+│       ├── 1Timothy.org
+│       ├── 2Chronicles.org
+│       ├── 2Corinthians.org
+│       ├── 2John.org
+│       ├── 2Kings.org
+│       ├── 2Peter.org
+│       ├── 2Samuel.org
+│       ├── 2Thessalonians.org
+│       ├── 2Timothy.org
+│       ├── 3John.org
+│       ├── Acts.org
+│       ├── Amos.org
+│       ├── Colossians.org
+│       ├── Daniel.org
+│       ├── Deuteronomy.org
+│       ├── Ecclesiastes.org
+│       ├── Ephesians.org
+│       ├── Esther.org
+│       ├── Exodus.org
+│       ├── Ezekiel.org
+│       ├── Ezra.org
+│       ├── Galatians.org
+│       ├── Genesis.org
+│       ├── Habakkuk.org
+│       ├── Haggai.org
+│       ├── Hebrews.org
+│       ├── Hosea.org
+│       ├── Isaiah.org
+│       ├── James.org
+│       ├── Jeremiah.org
+│       ├── Job.org
+│       ├── Joel.org
+│       ├── John.org
+│       ├── Jonah.org
+│       ├── Joshua.org
+│       ├── Jude.org
+│       ├── Judges.org
+│       ├── Lamentations.org
+│       ├── Leviticus.org
+│       ├── Luke.org
+│       ├── Malachi.org
+│       ├── Mark.org
+│       ├── Matthew.org
+│       ├── Micah.org
+│       ├── Nahum.org
+│       ├── Nehemiah.org
+│       ├── Numbers.org
+│       ├── Obadiah.org
+│       ├── Philemon.org
+│       ├── Philippians.org
+│       ├── Proverbs.org
+│       ├── Psalms.org
+│       ├── README.org
+│       ├── Revelation.org
+│       ├── Romans.org
+│       ├── Ruth.org
+│       ├── SongOfSolomon.org
+│       ├── Titus.org
+│       ├── UNLICENSE
+│       ├── Zechariah.org
+│       ├── Zephaniah.org
+│       ├── generate_single_file.sh
+│       └── rename.sh
+├── Mahavamsa
+│   └── mahavamsa.org
+├── ParadiseLost
+│   ├── ParadiseLost.org
+│   └── pg26-images.html
+├── Ramayana
+│   ├── Ramayana.org
+│   └── pg24869-images.html
+└── output.txt
+
+10 directories, 84 files
