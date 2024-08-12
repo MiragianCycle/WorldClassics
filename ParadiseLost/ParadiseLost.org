@@ -1,4 +1,3 @@
-<<pg-header>>
 ** The Project Gutenberg eBook of Paradise Lost
 :PROPERTIES:
 :CUSTOM_ID: pg-header-heading
