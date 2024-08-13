@@ -4,9 +4,7 @@ This repository is a collection of world-famous classic literature. Here is a tr
 
 
 
-'''
-markdown
-
+```
 ├── AbrahamicTree
 │   ├── Al-Quran
 │   │   └── Quran.org
@@ -127,8 +125,7 @@ markdown
 ├── README.md
 └── output.txt
 
-'''
-
+```
 
 
 
