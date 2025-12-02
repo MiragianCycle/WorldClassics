@@ -1,0 +1,45 @@
+
+* Chapter1
+:PROPERTIES:
+:org-remark-file: Chapter1.org
+:END:
+
+** The idea of a Ceylon Federation had come as early as 1929 from S. W. R. D. Bandaranaike, who later became Prime Minister of Ceylon. By this time portents of future communal problems had already emerged. But no Tamil leader of importance fought for a federal constitution at independence. The Tamil Congress under G. G. Ponnampalam, which represented Tamil communal interests fought instead for 50-50 representation in parliament, that is half the seats for the minorities who then formed a little over 30% of the population, the Tamils being about a quarter of the population. Perhaps, that was the only way a Tamil politician with a communal electorate could hope to become Prime Minister. Whereas a federal demand would have seemed a reasonable guarantee of Tamil security, the 50-50 demand was seen to be unreasonable to the Sinhalese, as it indeed was, and finally Ceylon received independence on 4 February, 1948 without the Tamils having either. 
+:PROPERTIES:
+:org-remark-id: 87d0f16e
+:org-remark-label: nil
+:org-remark-beg: 298
+:org-remark-end: 1250
+:org-remark-link: [[file:Chapter1.org::9]]
+:org-remark-original-text: The idea of a Ceylon Federation had come as early as 1929 from S. W. R. D. Bandaranaike, who later became Prime Minister of Ceylon. By this time portents of future communal problems had already emerged. But no Tamil leader of importance fought for a federal constitution at independence. The Tamil Congress under G. G. Ponnampalam, which represented Tamil communal interests fought instead for 50-50 representation in parliament, that is half the seats for the minorities who then formed a little over 30% of the population, the Tamils being about a quarter of the population. Perhaps, that was the only way a Tamil politician with a communal electorate could hope to become Prime Minister. Whereas a federal demand would have seemed a reasonable guarantee of Tamil security, the 50-50 demand was seen to be unreasonable to the Sinhalese, as it indeed was, and finally Ceylon received independence on 4 February, 1948 without the Tamils having either.
+:END:
+
+** The first parliament had over 40% of the seats represented by candidates from the minorities or left inclined candidates influenced by the minorities. (The minorities consist of the Ceylon Tamils, Indian Tamils, Muslims and Burghers.) But the Citizenship Act of December 1948 and the Parliamentary Elections Amendment Act of 1949 put an end to that and paved the way to reducing the representation in parliament of minorities to less than 20%. What these Acts did was to make non-citizens of the Tamil plantation labour who formed about 10% of the national population or about a third of the minority population, and deprive them of their vote.
+:PROPERTIES:
+:org-remark-id: 0d65ddc8
+:org-remark-label: nil
+:org-remark-beg: 1508
+:org-remark-end: 2152
+:org-remark-link: [[file:Chapter1.org::28]]
+:org-remark-original-text: The first parliament had over 40% of the seats represented by candidates from the minorities or left inclined candidates influenced by the minorities. (The minorities consist of the Ceylon Tamils, Indian Tamils, Muslims and Burghers.) But the Citizenship Act of December 1948 and the Parliamentary Elections Amendment Act of 1949 put an end to that and paved the way to reducing the representation in parliament of minorities to less than 20%. What these Acts did was to make non-citizens of the Tamil plantation labour who formed about 10% of the national population or about a third of the minority population, and deprive them of their vote.
+:END:
+
+**    What was surprising, however, was that almost all of the Tamil elite representing the Ceylon Tamils through both Mr. Senanayake's United National Party and the Tamil Congress, either voted for the bills or were not serious about opposing them. Mr. G. G. Ponnampalam, the leader of the Tamil Congress, opposed the first bill and voted for the second, having become a member of the cabinet. This somersault on the unprincipled calculation that, on the goodwill of the U.N.P. depended their personal power and vested interests. The Sinhalese elite discovered very early that they could easily call the bluff of the Tamil elite, especially the Colombo Tamil. 
+:PROPERTIES:
+:org-remark-id: 4bbf75ea
+:org-remark-label: nil
+:org-remark-beg: 2323
+:org-remark-end: 2981
+:org-remark-link: [[file:Chapter1.org::42]]
+:org-remark-original-text:    What was surprising, however, was that almost all of the Tamil elite representing the Ceylon Tamils through both Mr. Senanayake's United National Party and the Tamil Congress, either voted for the bills or were not serious about opposing them. Mr. G. G. Ponnampalam, the leader of the Tamil Congress, opposed the first bill and voted for the second, having become a member of the cabinet. This somersault on the unprincipled calculation that, on the goodwill of the U.N.P. depended their personal power and vested interests. The Sinhalese elite discovered very early that they could easily call the bluff of the Tamil elite, especially the Colombo Tamil.
+:END:
+
+** Kumari Jayewardene has pointed out in her writings (see Lanka Guardian June/July 1984) that the vote in a parliament which disenfranchised the Indian Tamils was not simply a communal vote. Strenuous opposition to this bill came from the major left parties - the Trotskyite L.S.S.P. led by Dr. N. M. Perera, the Bolshevik-Leninist party led by Dr. Colvin R. De Silva, and the Communist party led by Mr. Pieter Keuneman. Most M.P.'s from these parties were Sinhalese. A prominent Buddhist and doctor, H. Sri Nissanka opposed this piece of Legislation on the grounds that it ignored the first principle of law.
+:PROPERTIES:
+:org-remark-id: d3565b2e
+:org-remark-label: nil
+:org-remark-beg: 2985
+:org-remark-end: 3592
+:org-remark-link: [[file:Chapter1.org::53]]
+:org-remark-original-text: Kumari Jayewardene has pointed out in her writings (see Lanka Guardian June/July 1984) that the vote in a parliament which disenfranchised the Indian Tamils was not simply a communal vote. Strenuous opposition to this bill came from the major left parties - the Trotskyite L.S.S.P. led by Dr. N. M. Perera, the Bolshevik-Leninist party led by Dr. Colvin R. De Silva, and the Communist party led by Mr. Pieter Keuneman. Most M.P.'s from these parties were Sinhalese. A prominent Buddhist and doctor, H. Sri Nissanka opposed this piece of Legislation on the grounds that it ignored the first principle of law.
+:END:
