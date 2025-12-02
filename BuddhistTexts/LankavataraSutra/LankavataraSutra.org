@@ -5,21 +5,12 @@
 :CUSTOM_ID: the-lankavatara-sutra
 :align: center
 :END:
-** A Mahayana Text
+* A Mahayana Text
 :PROPERTIES:
 :CUSTOM_ID: a-mahayana-text
 :align: center
 :END:
 \\
-
-**** Translated for the first time from\\
-the original Sanskrit by\\
-Daisetz Teitaro Suzuki
-:PROPERTIES:
-:CUSTOM_ID: translated-for-the-first-time-from-the-original-sanskrit-by-daisetz-teitaro-suzuki
-:END:
-\\
-☸ <<contents>>
 
 *** CONTENTS
 :PROPERTIES:
@@ -861,6 +852,15 @@ progress) (Last correction 16 Jun 2008)\\
 
 \\
 <<preface>>
+
+*** Translated for the first time from\\
+the original Sanskrit by\\
+Daisetz Teitaro Suzuki
+:PROPERTIES:
+:CUSTOM_ID: translated-for-the-first-time-from-the-original-sanskrit-by-daisetz-teitaro-suzuki
+:END:
+\\
+☸ <<contents>>
 
 *** PREFACE
 :PROPERTIES:
